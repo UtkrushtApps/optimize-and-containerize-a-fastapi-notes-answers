@@ -1,0 +1,54 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Cython debug symbols
+cython_debug/
+
+# Unit test / coverage reports
+test_*.py
+.tox/
+.nox/
+.coverage
+coverage.*
+.cache
+.pytest_cache/
+
+# Python virtualenvs
+venv/
+env/
+.pip-cache/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Editor directories and files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Distribution / packaging
+.Python
+dist/
+build/
+.eggs/
+*.egg-info/
+
+# Docker
+Dockerfile*
+.dockerignore
+
+# Logs
+*.log
+
+# Environment variables
+env.*
+.env*
+
+# Miscellaneous
+*.bak
+*.orig
+*.tmp
